@@ -8,5 +8,6 @@ const client = new discordcs.Client({
 
 client.on('ready', () =>{
     client.CommandsRegister.registerCommands(__dirname+'/./commands')
+    client.user.setPresence({ game: { name: 'DiscordCS', type: 0 } })
     console.log(`- ${client.user.tag}`)
 })
