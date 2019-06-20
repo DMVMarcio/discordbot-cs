@@ -1,0 +1,19 @@
+{
+  "name": "discordbot-cs",
+  "version": "1.0.0",
+  "description": "A simple bot made in discordCS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DMVMarcio/discordbot-cs.git"
+  },
+  "author": "DMVMarcio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMVMarcio/discordbot-cs/issues"
+  },
+  "homepage": "https://github.com/DMVMarcio/discordbot-cs#readme"
+}
